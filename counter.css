@@ -1,0 +1,19 @@
+.bg__dark{
+    background-color: white;
+    height: 100vh;
+}
+.counterTitle{
+    text-align: center;
+    color: lightcoral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10%;
+}
+#counterContainer{
+    border: 1px solid lightcoral;
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 7rem;
+    border-radius: .25rem;
+    color: lightcoral;
+}
